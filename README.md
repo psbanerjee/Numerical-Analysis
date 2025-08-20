@@ -1,2 +1,2 @@
-# Newton-Raphson-Method
-This code finds root of a function using Newton Raphson Method. Change the function and derivative to calculate for your function.
+#Numerical Analysis
+This repository contains various toy problems which can be used to solve numerical problems in various fields like physics, engineering, finance and data analysis.
